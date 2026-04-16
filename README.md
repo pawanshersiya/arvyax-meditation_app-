@@ -47,18 +47,6 @@ A calm, minimal Flutter application designed to deliver an immersive ambience-ba
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here)*
-
-* Home Screen
-* Ambience Details
-* Session Player
-* Reflection Screen
-* Journal History
-
----
-
 ## 🛠 Tech Stack
 
 * **Flutter** – UI framework
