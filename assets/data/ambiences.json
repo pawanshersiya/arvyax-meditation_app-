@@ -1,0 +1,63 @@
+[
+  {
+    "id": "focus_drift",
+    "title": "Focus Drift",
+    "tag": "Focus",
+    "durationSeconds": 600,
+    "imageAsset": "assets/images/focus_drift.png",
+    "audioAsset": "assets/audio/focus_drift.wav",
+    "description": "A gentle, steady backdrop to help your attention settle and stay soft.",
+    "sensory": ["Breeze", "Mist", "Soft Light"]
+  },
+  {
+    "id": "deep_breath_reset",
+    "title": "Deep Breath Reset",
+    "tag": "Reset",
+    "durationSeconds": 420,
+    "imageAsset": "assets/images/deep_breath_reset.png",
+    "audioAsset": "assets/audio/deep_breath_reset.wav",
+    "description": "Slow down and release tension with a calm rhythm that invites a fresh start.",
+    "sensory": ["Warm Air", "Quiet Waves", "Distant Rain"]
+  },
+  {
+    "id": "calm_current",
+    "title": "Calm Current",
+    "tag": "Calm",
+    "durationSeconds": 900,
+    "imageAsset": "assets/images/calm_current.png",
+    "audioAsset": "assets/audio/calm_current.wav",
+    "description": "A soothing flow for settling the mind and letting your body feel safe and held.",
+    "sensory": ["Breeze", "Cloud Drift", "Vanilla Hush"]
+  },
+  {
+    "id": "sleep_clouds",
+    "title": "Sleep Clouds",
+    "tag": "Sleep",
+    "durationSeconds": 1200,
+    "imageAsset": "assets/images/sleep_clouds.png",
+    "audioAsset": "assets/audio/sleep_clouds.wav",
+    "description": "A slow, quiet atmosphere to support drifting into rest.",
+    "sensory": ["Mist", "Feather Quiet", "Moon Air"]
+  },
+  {
+    "id": "focus_river",
+    "title": "Focus River",
+    "tag": "Focus",
+    "durationSeconds": 750,
+    "imageAsset": "assets/images/focus_river.png",
+    "audioAsset": "assets/audio/focus_river.wav",
+    "description": "A focused calm—like moving water—keeping your attention gently guided.",
+    "sensory": ["Soft Light", "River Hush", "Breeze"]
+  },
+  {
+    "id": "calm_lanterns",
+    "title": "Calm Lanterns",
+    "tag": "Calm",
+    "durationSeconds": 480,
+    "imageAsset": "assets/images/calm_lanterns.png",
+    "audioAsset": "assets/audio/calm_lanterns.wav",
+    "description": "A light touch for reassurance, inviting ease without needing to do anything.",
+    "sensory": ["Warm Air", "Gentle Glow", "Still Water"]
+  }
+]
+
