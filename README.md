@@ -154,9 +154,22 @@ Repository → Provider → UI
 
 ---
 
-## 🎥 Screen Recording
+## 📸 Screenshots
 
-> *(https://drive.google.com/file/d/1OvuhNB7-37pCJ8mWad75FWW6VnB9i4H3/view?usp=drive_link)*
+<p align="center">
+</p>
+
+| User Dashboard                   | Meditation Mode                  | Player                             |
+|----------------------------------|----------------------------------|------------------------------------|
+| ![](assets/screenshots/home.png) | ![](assets/screenshots/mode.png) | ![](assets/screenshots/player.png) |
+
+---
+
+## 🎥 Demo
+
+<p align="center">
+  <img src="assets/screenshots/demo.gif" width="300"/>
+</p>
 
 ---
 
@@ -182,11 +195,5 @@ Repository → Provider → UI
 
 * Persistent mini-player across screens
 * Session state handling for seamless user experience
-
----
-
-## 🧠 Final Note
-
-ArvyaX prioritizes **clean architecture, predictable state management, and a calm user experience** over feature complexity.
 
 ---
